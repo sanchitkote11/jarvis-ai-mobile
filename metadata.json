@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Futuristic JARVIS AI Assistant HUD dashboard with voice controls, live diagnostics, cyber tools, and fluid water-like UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
